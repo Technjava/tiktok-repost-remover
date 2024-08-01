@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.0.2",
+    "readline": "^1.3.0",
+    "typescript": "^5.5.4"
+  },
+  "name": "tiktok-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node dist/app/index.js"
+  },
+  "keywords": [],
+  "author": "TechNeon",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^22.15.0"
+  }
+}
