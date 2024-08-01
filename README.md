@@ -44,4 +44,4 @@ npm run-script run
 There is no interface; everything is on your command line.
 # Thanks you!
 
-### Copyright (C) Technjava, feel free to fork, but please remember to credit me.
+### Copyright (C) Technjava, feel free to fork, but please remember to credit me 😊
