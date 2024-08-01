@@ -17,7 +17,7 @@ Hi! I'm a 16-year-old developer, and today I have completed a little project to 
     - Click on 'Code',
     - Download Zip,
     - Unzip the folder using your favorite unzipper,
-    - Go into this folder to continue (it may have dist in it).
+    - Go into this folder to continue (it should have dist and other files in it).
 
 - ### Git:
 ```shell
