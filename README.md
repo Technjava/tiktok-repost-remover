@@ -30,7 +30,8 @@ npm i
 
 ```shell
 node dist/app/index.js
-`` or
+```
+or
 ```shell
 npm run-script run
 ```
