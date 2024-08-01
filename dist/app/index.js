@@ -23,6 +23,6 @@ const main = () => __awaiter(void 0, void 0, void 0, function* () {
     yield tiktokAuth.signInWithHuman();
     yield tiktokWeb.navigateToProfile();
     yield ((_a = tiktokWeb.request) === null || _a === void 0 ? void 0 : _a.waitForUserLoad());
-    yield tiktokWeb.auto.deleteAutomaticly();
+    yield tiktokWeb.auto.deleteAutomatically();
 });
 main();

@@ -18,7 +18,7 @@ class TikTokAuto {
         this.web = web;
         this.page = page;
     }
-    deleteAutomaticly() {
+    deleteAutomatically() {
         return __awaiter(this, void 0, void 0, function* () {
             var _a, _b;
             console.log("Starting deletion period.\nYou have 5 seconds to close any pop-ups if there are any on this page. If the app doesn't click on the repost button automatically, please do it yourself.");
