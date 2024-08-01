@@ -1,7 +1,8 @@
 # Tiktok Repost Remover using Puppeteer and Node.js
 ### JavaScript & TypeScript
 
-Hi! I'm a 16-year-old developer, and today I have completed a little project to remove each of your reposts one by one. If you like my project, feel free to leave a star. I did it on my own, and it was very difficult to understand each error encountered.
+Hi! I'm a 16-year-old developer, and today I have completed a little project to remove each of your reposts one by one. If you like my project, feel free to leave a star. I did it on my own, and it was very difficult to understand each error encountered, so I would be very happy if you leave a star! Please make me happy in this world 🫡
+
 ## Issues
  > If you encounter any issues, feel free to report them in the issues section!
  > I have tested the code myself, but I understand that for example, the waiting time might not work for everyone. Therefore, I can make changes for you or even create a configuration file.
