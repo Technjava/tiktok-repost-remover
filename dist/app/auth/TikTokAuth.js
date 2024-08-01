@@ -19,7 +19,7 @@ class TikTokAuth {
     signInWithHuman() {
         return __awaiter(this, void 0, void 0, function* () {
             yield this.web.navigateTo("https://www.tiktok.com/login");
-            console.log("Veuillez vous connecter manuellement, une fois fini, vous serez redirigé.");
+            console.log("Please log in by yourself on this page.\nOnce you are done, the app will redirect you automatically.");
             yield new Promise((resolve) => {
                 const checkLogin = setInterval(() => __awaiter(this, void 0, void 0, function* () {
                     const url = yield this.page.url();
@@ -29,7 +29,7 @@ class TikTokAuth {
                     }
                 }), 1000);
             });
-            console.log("Connexion effectuée avec succès.");
+            console.log("Logged in successfully!");
         });
     }
 }
